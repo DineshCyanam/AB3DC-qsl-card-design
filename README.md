@@ -1,4 +1,4 @@
-# AB3DC's QSl Card Design Template
+# AB3DC's QSL Card Design Template
 
 This is the design I used for my amateur radio QSL cards. File format is PSD and is for the 3.5" x 5.5" standard QSL card size.
 These cards were made based on the GotPrint.com template as I had found them to be the cheapest and so had my cards printed there.
