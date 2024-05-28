@@ -7,15 +7,16 @@ These cards were made based on the GotPrint.com template as I found their servic
 
 For printing at GotPrint:
 
-1. Go to [gotprint.com](http://gotprint.net/g/uploadPostCard.do)
+1. Go to [gotprint.com](https://www.gotprint.com/products/postcards/order.html)
 2. Choose Size: 3.5x5.5
-3. Choose Paper: (I used the 14pt. Gloss Coated Cover with UV Coating)
-4. Choose Color: (I chose Color Front, B&W back. The B&W back will not include the glossy UV coating)
-5. Select quantity
-6. Standard Turn-Around Time
-7. Upload: Instant Online Proof
+3. Choose Orientation: Horizontal (or vertical depending on your design)
+4. Choose Paper: (I used the 14pt. Gloss Coated Cover with UV Coating)
+5. Choose Color: (I chose Full Color Front, Grayscale back. The Grayscale Back will not include the glossy UV coating)
+6. Select quantity
+7. Select Production Time
+8. Upload Front and Back for instant online proof
 
-Also note that this card does not confine to the USPS standards to be send as a postcard. I will work on creating a postcard version when time permits.
+Also note that this card may not confirm to the USPS standard to be send as a postcard. But I have seen reports from other hams who used this design and had no issues sending them as postcards.
 
 73
 
